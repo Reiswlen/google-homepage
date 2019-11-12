@@ -1,0 +1,1 @@
+google-homepage is a practice exercise for html and css to try and copy the google homepage, although without the functionality.
